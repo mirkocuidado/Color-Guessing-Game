@@ -1,0 +1,39 @@
+.row1{
+    background-color: lightblue;
+    color: white;
+}
+
+body{
+    background-color: #232323;
+}
+
+#nav{
+    background-color: white;
+    font-weight: bold;
+    color: blue;
+    margin-bottom: 20px;
+}
+
+.square{
+    width: 30%;
+    background-color: red;
+    margin: 1.66%;
+    float: left;
+    padding-bottom: 30%;
+    border-radius: 25px;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+#winner {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+
+#textic{
+    margin-left: 1200px;
+}
